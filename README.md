@@ -15,6 +15,10 @@ Key features include:
 
 The smart contract is implemented with **Solidity** and is tested using the **Hardhat** framework.
 
+## Contract Address on Sepolia
+
+The contract has been deployed on the Sepolia test network and can be viewed on Etherscan at the following address: [0xC94ef3b36cF21C093520Cf63904Ef4AfB9FD15E8](https://sepolia.etherscan.io/address/0xC94ef3b36cF21C093520Cf63904Ef4AfB9FD15E8)
+
 ## Technical Choices
 
 ### Language and Tools
