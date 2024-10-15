@@ -52,13 +52,13 @@ The project consists of two main contracts:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/stampcodes/DAO.git
+git clone https://github.com/stampcodes/dao.git
 ```
 
 2. Navigate to the project directory:
 
 ```sh
-cd DAO
+cd dao
 ```
 
 3. Install the necessary dependencies:
@@ -115,4 +115,3 @@ Distributed under the MIT License. See LICENSE for more information.
 For more information, you can contact:
 
 - **Name**: Andrea Fragnelli
-- **Project Link**: [https://github.com/stampcodes/DAO.git](https://github.com/stampcodes/DAO.git)
